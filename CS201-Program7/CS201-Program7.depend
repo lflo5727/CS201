@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512574245 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program7\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<map>
+	<iterator>
+

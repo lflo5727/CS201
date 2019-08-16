@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508442523 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"User.h"
+
+1508264302 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program4\src\user.cpp
+	"User.h"
+	<string>
+	<fstream>
+	<algorithm>
+
+1508439658 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program4\include\user.h
+	<string>
+	<fstream>
+

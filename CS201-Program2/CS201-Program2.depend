@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506101204 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Staff.h"
+
+1506101186 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program2\include\staff.h
+	<string>
+	<vector>
+
+1506101194 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program2\src\staff.cpp
+	"Staff.h"
+	<string>
+	<fstream>
+

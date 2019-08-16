@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1509726014 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\main.cpp
+	<iostream>
+	"Appliance.h"
+	"Refrigerator.h"
+	"Dishwasher.h"
+	"Oven.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1509727300 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\src\appliance.cpp
+	"Appliance.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1509727268 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\include\appliance.h
+	<string>
+	<fstream>
+
+1509727033 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\src\dishwasher.cpp
+	"Dishwasher.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1509727027 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\include\dishwasher.h
+	"Appliance.h"
+	<string>
+	<fstream>
+
+1509727045 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\src\oven.cpp
+	"Oven.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1509727039 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\include\oven.h
+	<string>
+	<fstream>
+	"Appliance.h"
+
+1509727318 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\src\refrigerator.cpp
+	"Refrigerator.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1509727015 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201r\cs201-program5\include\refrigerator.h
+	<string>
+	<fstream>
+	"Appliance.h"
+
